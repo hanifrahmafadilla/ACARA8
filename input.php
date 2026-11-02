@@ -18,7 +18,6 @@ if (isset($_POST['submit'])) {
     }
 }
 
-
 echo "<div style='width: 400px; margin: 20px auto; padding: 20px; border: 1px solid #ccc;'>";
 echo "<h2>Input Data Penduduk</h2>";
 echo "<form action='' method='POST'>";
